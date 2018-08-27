@@ -1,0 +1,7 @@
+c:\Users\Imran\documents\visual studio 2013\Projects\JenkinCA\TestJenkinCA\bin\Debug\TestJenkinCA.dll
+c:\Users\Imran\documents\visual studio 2013\Projects\JenkinCA\TestJenkinCA\bin\Debug\TestJenkinCA.pdb
+c:\Users\Imran\documents\visual studio 2013\Projects\JenkinCA\TestJenkinCA\bin\Debug\JenkinCA.exe
+c:\Users\Imran\documents\visual studio 2013\Projects\JenkinCA\TestJenkinCA\bin\Debug\JenkinCA.pdb
+c:\Users\Imran\documents\visual studio 2013\Projects\JenkinCA\TestJenkinCA\obj\Debug\TestJenkinCA.csprojResolveAssemblyReference.cache
+c:\Users\Imran\documents\visual studio 2013\Projects\JenkinCA\TestJenkinCA\obj\Debug\TestJenkinCA.dll
+c:\Users\Imran\documents\visual studio 2013\Projects\JenkinCA\TestJenkinCA\obj\Debug\TestJenkinCA.pdb

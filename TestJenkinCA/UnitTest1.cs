@@ -7,16 +7,23 @@ namespace TestJenkinCA
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void GetMessageTest()
         {
             Assert.AreEqual("Hello World", Program.GetMessage());
             
             //Assert.AreEqual("Hello World","Hello World");
         }
-
-        public UnitTest1()
+        [TestMethod]
+        public void GetSecondMessageTest()
         {
-            this.TestMethod1();
+            Assert.AreEqual("Hello World", Program.GetSecondMessage());
+
+            //Assert.AreEqual("Hello World","Hello World");
         }
+
+        //public UnitTest1()
+        //{
+        //    this.TestMethod1();
+        //}
     }
 }

@@ -15,5 +15,10 @@ namespace JenkinCA
         {
             return "Hello World";
         }
+
+        public static string GetSecondMessage()
+        {
+            return "Hello second time";
+        }
     }
 }

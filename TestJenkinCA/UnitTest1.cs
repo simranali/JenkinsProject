@@ -13,5 +13,10 @@ namespace TestJenkinCA
             
             //Assert.AreEqual("Hello World","Hello World");
         }
+
+        public UnitTest1()
+        {
+            this.TestMethod1();
+        }
     }
 }

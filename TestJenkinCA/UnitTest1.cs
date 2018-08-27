@@ -9,7 +9,9 @@ namespace TestJenkinCA
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.Equals("Hello World", Program.GetMessage());
+            Assert.AreEqual("Hello World", Program.GetMessage());
+            
+            //Assert.AreEqual("Hello World","Hello World");
         }
     }
 }
